@@ -1,0 +1,19 @@
+{
+  "name": "hubot-bustime",
+  "version": "0.0.1",
+  "description": "Hubot plugin to say bus time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mokjpn/hubot-bustime"
+  },
+  "author": "Masafumi Okada",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/mokjpn/hubot-bustime/issues"
+  },
+  "homepage": "https://github.com/mokjpn/hubot-bustime"
+}
